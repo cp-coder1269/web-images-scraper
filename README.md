@@ -1,4 +1,4 @@
-# Hotel Image Scraper and Sorter
+# Hotel Image Scraper and Sorter for Quality Enhancements
 
 ## Overview
 
